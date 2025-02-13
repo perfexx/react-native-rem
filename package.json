@@ -1,0 +1,19 @@
+{
+  "name": "react-native-rem",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "release": "np"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.3.18",
+    "@types/react-native": "^0.73.0",
+    "typescript": "^5.7.3"
+  }
+}
